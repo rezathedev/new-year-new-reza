@@ -149,3 +149,11 @@ header {
     font-family: 'Work Sans';
 
   }
+
+  /* footer */
+  .button-footer {
+    background-color: white;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+  }
