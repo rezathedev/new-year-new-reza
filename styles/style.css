@@ -43,6 +43,29 @@ header {
     border-radius: 5px;
 }
 
+/* About Me section */
+.about-me {
+    text-align: center;
+    margin: 130px;
+    display: flex;
+    margin-top: 131px;
+    justify-content: space-between;
+    
+}
+.about-image {
+    margin-left: 206px;
+    margin-top: 130px;
+    
+}
+
+.about-text {
+    margin-top: 370px;
+    margin-left: 206px;
+    text-align: right;
+}
+
+
+
 /* My failure section */
 .my-failures {
     display: flex;
