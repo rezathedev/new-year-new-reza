@@ -157,3 +157,8 @@ header {
     font-weight: 600;
     font-size: 20px;
   }
+
+footer {
+    background: #151414;
+    display: flex;
+}
