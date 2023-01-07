@@ -151,14 +151,46 @@ header {
   }
 
   /* footer */
-  .button-footer {
-    background-color: white;
-    color: #F15B22;
-    font-weight: 600;
-    font-size: 20px;
-  }
 
 footer {
     background: #151414;
-    display: flex;
+    color: white;
+    
 }
+
+.contact {
+    display: flex;
+    
+}
+.future , .subscribe {
+    margin: 130px 230px;
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.future-description {
+    margin-bottom: 24px;
+}
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 31px;
+}
+.email-input {
+    width: 325px;
+height: 64px;
+}
+.button-footer {
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    width: 170.11px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin-top: 16px;
+  }
